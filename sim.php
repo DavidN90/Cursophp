@@ -1,3 +1,3 @@
 <?php
 
-echo "quero morrer";
+echo "vou viver";
