@@ -2,4 +2,3 @@
 
 echo "vou morrer";
 
-ain
